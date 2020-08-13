@@ -3,7 +3,7 @@ import os
 
 def main():
     """
-    Main function.
+    Main function as a main entrypoint for all functions in the program.
     """
     path_list = os.listdir(os.getcwd())
     print("asdjflkasjfksdajfkdsjfkdasjfkdasjfkdasjfkasdjfkasdjfaksdjfksadfasdfjadsk")  # noqa: E501
